@@ -15,7 +15,7 @@ permalink: /about/
 
 大学毕业于一个不咋地的学校，技能几乎全靠自己钻研和不断地出错，一步一步的到现在
 
-欢迎关注我的个人公众号「##灯芯168##」分享技术、记录生活，欢迎扫码添加。
+欢迎关注我的个人公众号「<b>灯芯168</b>」分享技术、记录生活，欢迎扫码添加。
 
 ![公众号二维码](https://upload-images.jianshu.io/upload_images/7842464-15f939ec039690f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
