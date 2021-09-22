@@ -4,17 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Hi，我是 lemon.
+大扎好，我系灯芯
 
 ### 技能
-
-Linux后端分布式高性能服务开发，差一点精通 C++，Golang 成长中，Python小玩具。
+熟悉AE、PR、An等软件，更为熟悉PS的一系列操作
+熟悉python的爬虫以及自动办公，C语言差一点点就入门
+玩过各式各样的小操作，比如免流、搭建游戏私服、小程序......
 
 ### 经历
 
-软件工程师(Software Engineer)，电子信息工程学士学位( Electronic and Information Engineering )，从事服务器软件后台开发工作多年，现就职腾讯（Tencent）公司。
+大学毕业于一个不咋地的学校，技能几乎全靠自己钻研和不断地出错，一步一步的到现在
 
-个人技术公众号「后端技术学堂」分享、记录、成长，欢迎扫码添加。
+欢迎关注我的个人公众号「」分享技术、记录生活，欢迎扫码添加。
 
 ![公众号二维码](https://upload-images.jianshu.io/upload_images/7842464-15f939ec039690f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -22,5 +23,5 @@ Linux后端分布式高性能服务开发，差一点精通 C++，Golang 成长�
 
 ### 版权声明
 
-博客文章是我原创文章，存档于_posts 文件夹下，版权归我所有，转载请与我联系获得授权许可。
+感谢GitHub的柠檬（lemon）大佬提供支持
 
